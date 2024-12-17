@@ -44,8 +44,8 @@ def generate_readme(config_file, readme_file):
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://example.com/shell-emulator.git
-   cd shell-emulator
+   git clone https://example.com/config1.git
+   cd config1
 ## Запуск
 - перейти в нужную папку
 - ввести .venv/Scripts/activate
