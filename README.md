@@ -46,3 +46,8 @@ def generate_readme(config_file, readme_file):
    ```bash
    git clone https://example.com/shell-emulator.git
    cd shell-emulator
+## Запуск
+- перейти в нужную папку
+- ввести .venv/Scripts/activate
+- Выведется user@hostname
+- дальше проверяете команды
