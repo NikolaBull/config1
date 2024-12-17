@@ -1,0 +1,6 @@
+<config>
+    <username>user</username>
+    <hostname>emulator</hostname>
+    <filesystem_path>filesystem.zip</filesystem_path>  <!-- Путь к архиву -->
+    <log_path>session_log.csv</log_path>
+</config>
