@@ -29,10 +29,6 @@ def test_ls():
     # Проверяем, что команда ls возвращает какой-либо вывод
     assert "file1.txt" in stdout or "dir1" in stdout, "Команда ls не вернула ожидаемый результат."
     print("Тест ls пройден: ls работает!")
-    print("Тест cd пройден: cd работает!")
-    print("Тест rm пройден: rm работает!")
-    print("Тест uname пройден: uname работает!")
-    print("Тест exit пройден: exit работает!")
 
 def test_cd():
     prepare_filesystem()
