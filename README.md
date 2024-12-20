@@ -56,3 +56,5 @@ zip. Эмулятор должен работать в режиме CLI.
 - ввести .venv/Scripts/activate
 - py main.py example/config.xml
 - Выведется user@hostname
+## Работа
+фото - test.png & Work.png
