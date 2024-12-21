@@ -53,8 +53,10 @@ zip. Эмулятор должен работать в режиме CLI.
    cd config1
 ## Запуск
 - перейти в нужную папку
-- ввести .venv/Scripts/activate
-- py main.py example/config.xml
+ ```bash
+.venv/Scripts/activate
+py main.py example/config.xml
+```
 - Выведется user@hostname
 ## Работа
 ![](test.png)
