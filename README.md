@@ -57,4 +57,5 @@ zip. Эмулятор должен работать в режиме CLI.
 - py main.py example/config.xml
 - Выведется user@hostname
 ## Работа
-фото - test.png & Work.png
+![](test.png)
+![](Work.png)
